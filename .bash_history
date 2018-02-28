@@ -219,3 +219,109 @@ cat id_rsa
 cat id_rsa.pub | pbcopy
 ls 
 sudo su
+git init
+echo "# psgit" >> README.md
+cd psgit
+echo "# psgit" >> README.md
+ls
+git add README.md
+cd ..
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:pulkit276/psgit.git
+git push -u origin master
+git show remote origin
+git push  origin master
+gitinit
+git init
+git config user.name "pulkit276"
+git config user.email "pulkit.saluja@gmail.com"
+git remote add origin git@github.com:pulkit276/psgit.git
+git push origin master
+cd psgit
+git push origin master
+git remote add origin git@github.com:pulkit276/psgit.git
+git push origin master
+git config user.name "GitRepo"
+cd ..
+git config user.name "GitRepo"
+git config user.email "pulkit.saluja@gmail.com"
+git remote add origin git@github.com:pulkit276/psgit.git
+git push origin master
+cd psgit
+git push origin master
+ls
+cd ..
+ls
+git remote add origin git@github.com:pulkit276/psgit.git
+git push origin master
+wget git@github.com:pulkit276/GitRepo.git
+git add dropDownDate.php
+git add .
+git commit -m "First Commit"
+git push origin master
+git config --local -e
+ssh -T git@github.com
+git remote add origin https://github.com/pulkit276/GitRepo.git
+git push origin master
+git config --global url."https://".insteadOf git://
+git remote add origin git@github.com:pulkit276/psgit.git
+git push origin master
+nc -v -z <psgit> <22>
+nc -v -z psgit 22
+ssh -T git@github.com
+sudo app -get install git
+sudo su
+yum install git
+yum update git
+git config --global user.name "pulkit276"
+git config --global user.email "pulkit.saluja@gmail.com"
+cd GitRepo
+ls
+git add README.md
+git commit -m "first commit"
+ls
+echo "# GitRepo" >> README.md
+ls
+git remote add origin https://github.com/pulkit276/GitRepo.git
+git push -u origin master
+cd ..
+cd/GitRepo
+ls
+cd ec2-user
+ls
+cd GitRepo
+ls
+git init
+s
+ls
+vi README.md
+git init
+cd ..
+git init
+git remote add origin https://github.com/pulkit276/GitRepo.git
+git push -u origin master
+ssh-keygen -T -rsa 
+ssh -T git@github.com
+ls -al ~/.ssh
+cat id_rsa.pub
+ssh-add ~/.ssh/id_rsa.pub
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+git push -u origin master
+clip < ~/.ssh/id_rsa.pub
+cat id_rsa.pub
+cat .ssh
+cd .ssh
+cat id_rsa.pub
+cd ..
+git remote add origin https://github.com/pulkit276/GitRepo.git
+git push -u origin master
+ls
+cd GitRepo
+git init
+cd ..
+git --version
+ssh -T git@github.com
+ssh -vT git@github.com
+ping 192.30.253.113

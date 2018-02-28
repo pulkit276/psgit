@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :q!
-|2,0,1519767803,,"q!"
+|2,0,1519811960,,"q!"
 :wq!
 |2,0,1519767773,,"wq!"
 
@@ -30,16 +30,28 @@
 |3,1,36,0,1,0,1519767782,"d"
 
 # File marks:
-'0  2  0  ~/psgit/hello
-|4,48,2,0,1519767803,"~/psgit/hello"
+'0  1  0  ~/GitRepo/README.md
+|4,48,1,0,1519811960,"~/GitRepo/README.md"
+'1  2  0  ~/psgit/hello
+|4,49,2,0,1519767803,"~/psgit/hello"
 
 # Jumplist (newest first):
+-'  1  0  ~/GitRepo/README.md
+|4,39,1,0,1519811960,"~/GitRepo/README.md"
+-'  2  0  ~/psgit/hello
+|4,39,2,0,1519767803,"~/psgit/hello"
 -'  2  0  ~/psgit/hello
 |4,39,2,0,1519767803,"~/psgit/hello"
 -'  1  0  ~/psgit/hello
 |4,39,1,0,1519767707,"~/psgit/hello"
+-'  1  0  ~/psgit/hello
+|4,39,1,0,1519767707,"~/psgit/hello"
 
 # History of marks within files (newest to oldest):
+
+> ~/GitRepo/README.md
+	*	1519811957	0
+	"	1	0
 
 > ~/psgit/hello
 	*	1519767802	0
