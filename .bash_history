@@ -198,3 +198,24 @@ ls
 cat psgit
 git init
 sudo su
+git init
+git config user.name "pulkit276"
+git config user.email "pulkit.saluja@gmail.com"
+wget git@github.com:pulkit276/psgit.git
+git add .
+git status
+git commmit -m "FIRST COMMIT"
+git commit -m "FIRST COMMIT"
+git status
+git remote add origin git@github.com:pulkit276/psgit.git
+git push -u origin master
+ls .ssh
+ssh -keygen -t rsa -C 'pulkit.saluja@gmail.com'
+ssh -keygen -t rsa -C "pulkit.saluja@gmail.com"
+ssh-keygen -t rsa -C "pulkit.saluja@gmail.com"
+ls .ssh
+cat id_rsa.pub
+cat id_rsa
+cat id_rsa.pub | pbcopy
+ls 
+sudo su
